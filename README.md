@@ -6,5 +6,5 @@ This module provisions a EC2. also those peripherals to make a connection ready.
 >`export EQUINIX_API_CLIENTID=someEquinixAPIClientID`  
 >`export EQUINIX_API_CLIENTSECRET=someEquinixAPIClientSecret`  
 >`export METAL_AUTH_TOKEN=someEquinixMetalToken`  
->
+>`set` instead of `export` in windows machine.  
 > AWS access key can be same way. refer https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html?icmpid=docs_sso_user_portal
