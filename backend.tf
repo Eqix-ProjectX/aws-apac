@@ -1,10 +1,10 @@
-terraform { 
-  cloud { 
-    
-    organization = "EQIX_projectX" 
+terraform {
+  cloud {
 
-    workspaces { 
-      name = "aws-apac" 
-    } 
-  } 
+    organization = "EQIX_projectX"
+
+    workspaces {
+      name = "aws-apac"
+    }
+  }
 }
